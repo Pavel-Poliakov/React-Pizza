@@ -2,7 +2,6 @@
 	"name": "react-pizza-v2",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://Pavel-Poliakov/github.io/React-Pizza",
 	"dependencies": {
 		"@reduxjs/toolkit": "^2.5.0",
 		"@types/jest": "^29.5.14",
