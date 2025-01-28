@@ -1,7 +1,7 @@
 {
 	"name": "react-pizza-v2",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"dependencies": {
 		"@reduxjs/toolkit": "^2.5.0",
 		"@types/jest": "^29.5.14",
