@@ -5,7 +5,6 @@ import React from 'react';
 import { SortProps } from '../@types/types';
 
 const Sort: React.FC<SortProps> = React.memo(({value}) => {
-	console.log(value);
 	const [open, setOpen] = useState(false);
 	const dispatch = useDispatch();
 	const sortRef = useRef<HTMLDivElement>(null);
